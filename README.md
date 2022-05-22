@@ -1,3 +1,3 @@
 This is my personal website / portfolio.
 
-Hosted on atahtee.vercel.app hwuifehuhdohodnsonoinkdsx
+Hosted on atahtee.vercel.app hwuif
